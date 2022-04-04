@@ -6,6 +6,7 @@ summary: AWS용 Cloud Volumes Service 비용은 선택한 서비스 수준과 �
 ---
 = 서비스 수준 및 할당된 용량
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
