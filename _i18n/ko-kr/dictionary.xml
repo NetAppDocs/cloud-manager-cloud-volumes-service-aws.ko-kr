@@ -76,10 +76,7 @@
   <block id="69c870ef5a9fde9a9c627d8c46f1737a" category="paragraph"><block ref="69c870ef5a9fde9a9c627d8c46f1737a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a696ff8c895f6eed266509c3ab2452a9" category="summary">Cloud Volumes Service for AWS의 새로운 기능에 대해 알아보십시오.</block>
   <block id="780371a55c5f8fb4b8ad9c591f1ca785" category="doc">Cloud Volumes Service for AWS의 새로운 기능</block>
-  <block id="3b7a1a77cdd08778e0827fbf312442b7" category="section-title">2021년 9월 2일</block>
-  <block id="b8a465f604dc28087d04a8998f16d610" category="section-title">AWS 작업 환경에 대한 새 CVS를 생성할 수 없습니다.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">ONTAP용 Amazon FSx</block>
-  <block id="2fe1ae66d2802d30c5480c17cf6781f4" category="paragraph">을(를) 시작합니다 <block ref="f5299bffecc7e118b61541de961fc5aa" category="inline-link-macro-rx"></block>Cloud Manager에서 더 이상 AWS용 CVS 작업 환경을 새로 생성할 수 없습니다. 그러나 이전에 AWS용 CVS 작업 환경을 Cloud Manager에 추가했다면, 계속해서 볼륨을 생성하고 관리할 수 있습니다.</block>
   <block id="ce21e7ae4271271294ccbf54c8fd6864" category="summary">NetApp은 다양한 방법으로 Cloud Manager를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">도움을 받으십시오</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link-macro"></block>
@@ -578,4 +575,8 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
   <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central 블로그</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">클라우드 웨비나</block>
+  <block id="d798cbf5a08fbeb9fdd3652e5b00bb4c" category="section-title">2021년 9월 2일</block>
+  <block id="5690692f09ed4eae80e2f6b0bcaddd11" category="section-title">AWS 작업 환경을 위한 새 Cloud Volumes Service를 생성할 수 없습니다.</block>
+  <block id="7bc918c632f0c5dfc839f6245b289949" category="paragraph">을(를) 시작합니다 <block ref="f5299bffecc7e118b61541de961fc5aa" category="inline-link-macro-rx"></block>Cloud Manager에서 더 이상 AWS 환경을 위한 새로운 Cloud Volumes Service를 생성할 수 없습니다. 그러나 이전에 AWS 작업 환경을 위한 Cloud Volumes Service를 Cloud Manager에 추가했다면 계속해서 볼륨을 생성 및 관리할 수 있습니다.</block>
+  <block id="8184a02e5fd636ada7ac9c7887ab7063" category="admonition">을(를) 시작합니다 <block ref="96821e1e659978c978732a5dc24298ac" category="inline-link-macro-rx"></block>Cloud Manager에서 더 이상 AWS 환경을 위한 새로운 Cloud Volumes Service를 생성할 수 없습니다. 그러나 이전에 AWS 작업 환경을 위한 Cloud Volumes Service를 Cloud Manager에 추가했다면 계속해서 볼륨을 생성 및 관리할 수 있습니다.</block>
 </blocks>

@@ -16,7 +16,7 @@ summary: NetApp Cloud Volumes Service for AWS는 NFS 및 SMB에서 All-Flash 성
 NetApp Cloud Volumes Service for AWS는 NFS 및 SMB에서 All-Flash 성능을 통해 NAS 볼륨을 제공하는 클라우드 네이티브 파일 서비스입니다. 이 서비스를 사용하면 기존 애플리케이션을 포함한 모든 워크로드를 AWS 클라우드에서 실행할 수 있습니다.
 
 
-NOTE: 을(를) 시작합니다 link:https://docs.aws.amazon.com/fsx/latest/ONTAPGuide/what-is-fsx-ontap.html["ONTAP용 Amazon FSx"^]Cloud Manager에서 더 이상 AWS용 CVS 작업 환경을 새로 생성할 수 없습니다. 그러나 이전에 AWS용 CVS 작업 환경을 Cloud Manager에 추가했다면, 계속해서 볼륨을 생성하고 관리할 수 있습니다.
+NOTE: 을(를) 시작합니다 link:https://docs.aws.amazon.com/fsx/latest/ONTAPGuide/what-is-fsx-ontap.html["ONTAP용 Amazon FSx"^]Cloud Manager에서 더 이상 AWS 환경을 위한 새로운 Cloud Volumes Service를 생성할 수 없습니다. 그러나 이전에 AWS 작업 환경을 위한 Cloud Volumes Service를 Cloud Manager에 추가했다면 계속해서 볼륨을 생성 및 관리할 수 있습니다.
 
 
 
